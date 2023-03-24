@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:wght@100&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+
+.job-heading-box {
+    width: 1272px;
+    height: 73px;
+    border: 1px solid grey;
+    margin-top: 20px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    width: 100%;
+    color: #000000;
+}
+
+.cancel-btn {
+    height: 35px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #F24726;
+    border-radius: 4px;
+    background: #FFFFFF;
+    border-color: #F24726;
+}
+
+.save-btn {
+    width: 147px;
+    height: 36px;
+    background: #000000;
+    color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.form-input-detail {
+    margin-left: 24px;
+    display: grid;
+}
+
+.form-select-detail {
+    margin-left: 40px;
+    display: grid;
+}
+
+.form-input-detail {
+    margin-left: 24px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.72);
+    display: grid;
+}
+
+form {
+    background: #FFFFFF;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+}
+
+select {
+    box-sizing: border-box;
+    width: 393px;
+    height: 36px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+
+.form-input {
+    box-sizing: border-box;
+    width: 393px;
+    height: 36px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+
+.form-round-input {
+    box-sizing: border-box;
+    width: 284px;
+    height: 36px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+
+.form-label {
+    height: 22px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 18px;
+}
+
+.location {
+    position: relative;
+    right: 18px;
+}
+
+.Interview-Rounds {
+    margin-top: 12px;
+}
+
+.interview-round-detail {
+    display: inline-grid;
+    gap: 9px;
+    margin-left: 26px;
+}
+
+.interview-round-description {
+    resize: none;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+.Salary-Input {
+    box-sizing: border-box;
+    width: 222px;
+    height: 36px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    margin-left: 24px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.72);
+    display: grid;
+}
+
+.form-label-CTC {
+    margin-left: 24px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+
+    margin-top: 18px;
+}
+
+.CTC-Input {
+    margin-left: 24px;
+}
+
+.input-paragraph {
+    margin-left: 6px;
+    margin-top: 8px !important;
+}
+
+.Input-Checkbox {
+    margin-left: 20px;
+}
+
+.input-radio {
+    margin-left: 20px;
+}
+
+.Create-btn {
+    box-sizing: border-box;
+
+
+    width: 159px;
+    height: 36px;
+    color: #FFFFFF;
+    background: #000000;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+}
+.textare{
+    resize: none;
+    width: 810px;
+height: 36px;
+}
